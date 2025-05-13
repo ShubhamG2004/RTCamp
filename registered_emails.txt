@@ -1,0 +1,2 @@
+touch src/registered_emails.txt
+chmod 666 src/registered_emails.txt
